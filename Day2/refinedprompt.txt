@@ -1,0 +1,101 @@
+Create a premium LinkedIn educational graphic in a square 1080x1080 format.
+
+Theme: Prompt Engineering for Beginners.
+
+Style: Modern AI education, minimal, professional, clean, executive-level design inspired by Claude AI branding.
+
+Color Palette:
+
+* Deep warm brown (#5A4635)
+* Soft beige (#D8C5A3)
+* Warm cream (#F5EFE4)
+* Light sand (#E8DCC8)
+* Accent bronze highlights
+
+Layout:
+
+Top Header Section:
+
+Small label:
+“abtalks 60 days Claude challenge”
+
+Main headline:
+“Prompt Engineering”
+
+Subtitle:
+“Better Instructions → Better AI Results”
+
+Center Visual Comparison Area:
+
+Left panel:
+
+Weak Prompt
+
+↓
+
+Basic Output
+
+Visual style:
+faded, minimal detail, simple document icon
+
+Right panel:
+
+Engineered Prompt
+
+↓
+
+Better Output
+
+Visual style:
+polished document, spark effects, productivity indicators, organized structure
+
+Between both panels:
+
+Large elegant arrow showing transformation
+
+Background:
+
+Subtle AI-inspired patterns, neural network lines, workflow nodes, productivity symbols, modern abstract geometric shapes
+
+Bottom Section:
+
+Three micro-benefits with icons:
+
+✓ Better Results
+
+✓ Save Time
+
+✓ Improve Accuracy
+
+Design Constraints:
+
+* Clean whitespace
+* Corporate LinkedIn style
+* No clutter
+* No cartoon elements
+* No futuristic robots
+* Premium typography
+* High readability on mobile devices
+* Strong visual hierarchy
+
+Suggested Fonts:
+
+* Headline: Inter Bold or Manrope ExtraBold
+* Subheading: Inter Medium
+* Body: Inter Regular
+
+Visual Mood:
+
+Intelligent
+
+Trustworthy
+
+Productive
+
+Professional
+
+Modern AI-first design
+
+Export:
+
+High-resolution social media graphic suitable for LinkedIn posting.
